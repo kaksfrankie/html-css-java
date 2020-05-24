@@ -1,0 +1,24 @@
+.icon-bar
+{
+	width: 95px;
+	background-color: #464646;
+}
+.icon-bar a
+{
+	display:block;
+	text-align: center;
+	padding: 20px;
+	transition: all 0.5s;
+	color: aliceblue;
+	font-size: 40px;
+}
+ .icon-bar a:hover
+{
+	background-color: black;
+}
+
+.active
+{
+	background-color: #868685;
+	/*setting initial active color*/
+}
